@@ -1,0 +1,11 @@
+
+.fondoBottonAnchorPanel{
+    -fx-background-color: #DDD;
+}
+
+.boton{
+    -fx-base: black;
+    -fx-font-size: 20px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Comic Sans MS bold";
+}
